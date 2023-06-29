@@ -10,6 +10,6 @@ public class CollisionExample {
 		int B = r.nextInt(6,11);
 		
 		int result = A+B;
-		System.out.printf("합은 %d입니다.",result);
+		System.out.printf("합은 %d입니다. 충돌 테스트(A에서 수정)",result);
 	}
 }
