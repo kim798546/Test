@@ -11,7 +11,5 @@ public class CollisionExample {
 		
 		int result = A+B;
 		System.out.printf("합은 %d입니다.",result);
-		
-		System.out.println("충돌 테스트 - A에서 수정함");
 	}
 }
